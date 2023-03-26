@@ -1,0 +1,6 @@
+docs
+notas
+out
+*__pycache__
+*.db
+*.txt
